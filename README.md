@@ -4,5 +4,5 @@ It contains the following python file.
 2. detect Orange function 
 3. detect apple function
 4. Implementation in real time
-For dataset you can create your own. The minimum should be atleast 50 image for each class
-.
+
+For dataset you can create your own. The minimum should be atleast 50 image for each class.
