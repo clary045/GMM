@@ -6,6 +6,7 @@ It contains the following python file.
 4. Implementation in real time
 
 Requirements
+
 The GMM algorithm uses the following python package:
 1. numpy
 2. pandas
