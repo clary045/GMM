@@ -15,5 +15,6 @@ The GMM algorithm uses the following python package:
 5. For dataset you can create your own. The minimum should be atleast 50 image for each class.
 
 Contacts
+
 For reporting bugs or help regarding any aspect of the GMM algorithm, please email:
 clarida045@gmail.com
