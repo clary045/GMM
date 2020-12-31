@@ -5,7 +5,7 @@ It contains the following python file.
 3. detect apple function
 4. Implementation in real time
 
-Requirements
+Requirements:
 
 The GMM algorithm uses the following python package:
 1. numpy
