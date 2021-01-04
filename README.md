@@ -12,7 +12,7 @@ The GMM algorithm uses the following python package:
 2. pandas
 3. scipy
 4. Open cv
-5. For dataset you can create your own. The minimum should be atleast 50 image for each class.
+5. For dataset you can create your own. The minimum should be atleast 50 image for each class (orange class 🍊 and apple class🍎.
 
 Contacts:
 
